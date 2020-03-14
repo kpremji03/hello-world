@@ -1,5 +1,5 @@
 # hello-world
-A place where to store ideas, resources, or even share and discuss things.
+A place where to store ideas, resources, or even share and discuss thoughts.
 
 Hello world!
 
